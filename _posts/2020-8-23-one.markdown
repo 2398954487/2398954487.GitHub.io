@@ -2,7 +2,7 @@
 layout:     post
 title:      "我的独立博客"
 date:       2020-8-23 14:02:35
-author:     "wblearn"
+author:     "reedkai"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - 介绍
