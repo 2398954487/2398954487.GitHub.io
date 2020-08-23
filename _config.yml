@@ -9,7 +9,15 @@ url: "http://2398954487.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
-
+# 
+RSS: false
+weibo_username: false
+csdn_username:     false
+github_username:    2398954487
+#twitter_username:  wblearn
+jianshu_username:  false
+bilibili_username: 627603325
+# linkedin_username:  firstname-lastname-idxxxx
 
 
 
