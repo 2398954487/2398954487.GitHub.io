@@ -13,7 +13,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 RSS: false
 weibo_username: false
 csdn_username:     false
-github_username:    2398954487
+github_username:    false
 #twitter_username:  wblearn
 jianshu_username:  false
 bilibili_username: 627603325
