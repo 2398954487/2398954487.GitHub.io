@@ -112,10 +112,10 @@ defaults:
 # Friends
 friends: [
     {
-        title: "wblearn的微博",
-        href: "http://weibo.com/wudalanggd"
+        title: "超哥的bilibili",
+        href: "https://space.bilibili.com/512306844"
     },{
-        title: "study video",
-        href: "https://wblearn.github.io/study-video"
+        title: "暂无",
+        href: "https://kai.52yi.vip"
     }
 ]
